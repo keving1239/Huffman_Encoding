@@ -14,3 +14,5 @@ Upon implementing and testing this code, I have concluded a few notes:
 1. Huffman Encoding is extremely efficient in the case that the number of characters is relatively small, and the size of the text is very large. (i.e. DNA sequencing)
 2. Upoon reaching roughly 65 unique characters in a text, Huffman encoding saves roughly 50% memory. More characters results in less memory save and more processing.
 3. The processing cost of Huffman Encoding is very high. in my personal opinion, it should only be used in the event of a case 1 data set.
+
+10110101111100100011011110011101011000110010101000
