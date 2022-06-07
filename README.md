@@ -16,3 +16,16 @@ Upon implementing and testing this code, I have concluded a few notes:
 3. The processing cost of Huffman Encoding is very high. in my personal opinion, it should only be used in the event of a case 1 data set.
 
 10110101111100100011011110011101011000110010101000
+(Kevin Galdamez)
+  = 1101
+a = 011
+d = 1100
+e = 010
+v = 1111
+G = 1110
+i = 1001
+z = 1000
+K = 1011
+l = 1010
+m = 001
+n = 000
